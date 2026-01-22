@@ -4,9 +4,11 @@ A simple REST API built using Python and FastAPI. This project demonstrates how 
 
 ## 🛠️ Tech Stack
 
+```
 - **Language:** Python
 - **Framework:** FastAPI
 - **Server:** Uvicorn
+```
 
 ## 🚀 How to Run Locally
 
